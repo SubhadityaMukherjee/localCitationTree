@@ -1,0 +1,2 @@
+tqdm==4.56.2
+scholarly==1.1.0
